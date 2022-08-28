@@ -1,0 +1,10 @@
+# Environments
+.env
+.venv
+.data
+data/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
